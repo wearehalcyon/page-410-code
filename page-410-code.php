@@ -4,7 +4,7 @@
 * Plugin URI: https://artroman.net/
 * Description: Plugin for organizing 410 server code. Create your redirects for 410 with the help of this plugin is quick and easy.
 * Author: ArtRoman
-* Version: 1.0.0
+* Version: 1.0.1
 * Author URI: https://artroman.net/
 */
 
